@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestJava": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
